@@ -43,7 +43,7 @@ In order to set up and run PodPrep AI, you need the following:
 In a terminal, clone the PodPrep AI repo to your project's working directory with the following command:
 
 ```shell
-git clone https://github.com/thefalc/podcast-research-agent.git
+git clone https://github.com/starme208/podcast-research-agent.git
 ```
 
 ### Setting up MongoDB
